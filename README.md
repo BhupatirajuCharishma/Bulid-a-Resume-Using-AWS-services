@@ -2,6 +2,7 @@ Developed and deployed a personal resume website using AWS S3 for static hosting
 scalable infrastructure to ensure high availability and low latency. –Utilized AWS Services: S3, Route 53, CloudFront, IAM for hosting, DNS, CDN, and access management. Built the 
 frontend using HTML5, CSS3, and JavaScript for a responsive design.Implemented automation and version control using 
 AWS CLI and Git. 
+
 How the Website Is Deployed Using AWS
 1️⃣ Amazon S3 – Website Hosting
 What it does:
