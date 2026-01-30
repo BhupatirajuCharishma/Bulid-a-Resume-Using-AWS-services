@@ -58,6 +58,7 @@ Enable caching and HTTPS.
 Set index.html as default page.
 
 Result:Users access the website from the nearest CloudFront edge location.
+
 4️⃣ Amazon Route 53 – DNS (Custom Domain)
 
 What it does:
